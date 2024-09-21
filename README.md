@@ -2,9 +2,11 @@
 This is a homebrew game for 1980's era Atari 8-bit XL/XE computers.
 
 It was built using the cc65 toolchain.
- 
+
+![Vector Doubles Screenshot](https://github.com/supurloop/vector-doubles/blob/main/Vector-Doubles-Screenshot.jpg)
+
 # Instructions
-Vector Doubles is a simple 2 player cooperative matching game.
+Vector Doubles is a simple and addictive 2 player cooperative matching game.
 
 (Can be played with only 1 player)
 
