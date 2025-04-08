@@ -3,6 +3,10 @@ This is a homebrew game for 1980's era Atari 8-bit XL/XE computers.
 
 It was built using the cc65 toolchain.
  
+# Reviews
+
+https://www.atariteca.net.pe/2024/10/vector-doubles-addictive-reflex_6.html
+
 # Instructions
 Vector Doubles is a simple 2 player cooperative matching game.
 
