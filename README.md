@@ -11,7 +11,7 @@ Targets NTSC, works in PAL mode but timer is a tad slower.
 
 [<img src="https://github.com/supurloop/vector-doubles/blob/main/zph.jpg">](https://www.youtube.com/watch?v=gL_D6H53BOo)
 
-https://www.atariteca.net.pe/2024/10/vector-doubles-addictive-reflex_6.html
+[<img src="https://github.com/supurloop/vector-doubles/blob/main/atariteca-2024-neg.png">](https://www.atariteca.net.pe/2024/10/vector-bubbles-un-adictivo-reto-de.html)
 
 # Instructions
 Vector Doubles is a simple and addictive 2 player cooperative matching game.
