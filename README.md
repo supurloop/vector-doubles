@@ -9,6 +9,8 @@ Targets NTSC, works in PAL mode but timer is a tad slower.
 
 # Reviews
 
+![ZeroPage Homebrew](https://github.com/supurloop/vector-doubles/blob/main/zph.jpg)
+https://www.youtube.com/watch?v=gL_D6H53BOo
 https://www.atariteca.net.pe/2024/10/vector-doubles-addictive-reflex_6.html
 
 # Instructions
@@ -16,8 +18,11 @@ Vector Doubles is a simple and addictive 2 player cooperative matching game.
 
 (Can be played with only 1 player)
 
+## Practice Mode
+A game has not started if the timer is not counting down, during this time players can practice matching.
+
 ## Starting Game
-Hold fire on either stick to start a two-minute game.
+Hold fire on either stick for 3 seconds to start a two-minute game. The timer will start counting down.
 
 ## Gameplay
 While not firing, move left or right one column. Center stick to move again.
