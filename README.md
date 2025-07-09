@@ -22,7 +22,8 @@ Vector Doubles is a simple and addictive 2 player cooperative matching game.
 A game has not started if the timer is not counting down, during this time players can practice matching.
 
 ## Starting Game
-Hold fire on either stick for 3 seconds to start a two-minute game. The timer will start counting down.
+Hold fire on either stick for 3 seconds to start a two-minute game.</br>
+The timer will start counting down.
 
 ## Gameplay
 While not firing, move left or right one column. Center stick to move again.
