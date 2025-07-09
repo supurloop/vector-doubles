@@ -9,8 +9,8 @@ Targets NTSC, works in PAL mode but timer is a tad slower.
 
 # Reviews
 
-![ZeroPage Homebrew](https://github.com/supurloop/vector-doubles/blob/main/zph.jpg)
-https://www.youtube.com/watch?v=gL_D6H53BOo
+[<img src="https://github.com/supurloop/vector-doubles/blob/main/zph.jpg">](https://www.youtube.com/watch?v=gL_D6H53BOo)
+
 https://www.atariteca.net.pe/2024/10/vector-doubles-addictive-reflex_6.html
 
 # Instructions
