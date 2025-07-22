@@ -18,8 +18,8 @@ Vector Doubles is a simple and addictive 2 player cooperative matching game.
 
 (Can be played with only 1 player)
 
-## Practice Mode
-A game has not started if the timer is not counting down, during this time players can practice matching.
+## Attract Mode
+A game has not started if the timer is not counting down, arrows continue to fall during in this mode but players cannot move and no points can be scored.
 
 ## Starting Game
 Hold fire on either stick for 3 seconds to start a two-minute game.</br>
